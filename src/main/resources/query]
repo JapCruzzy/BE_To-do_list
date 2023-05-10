@@ -1,0 +1,7 @@
+SELECT * FROM "to-do"
+INSERT INTO "to-do" (id, name)
+VALUES (1, 'Work');
+INSERT INTO "to-do" (id, name)
+VALUES (2, 'Study');
+INSERT INTO "to-do" (id, name)
+VALUES (3, 'Play');
